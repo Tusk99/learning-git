@@ -1,0 +1,1 @@
+print ("my app 1.0 version")
